@@ -60,6 +60,10 @@
 
 ### Thanks for visiting ❤
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/TatsukiMengChen/count.svg">  
+<div align="center">
+ 
+![Visitors](https://count.getloli.com/get/@TatsukiMengChen.gh.readme?theme=rule34) 
+
+</div>
+
 
