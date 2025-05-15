@@ -36,20 +36,18 @@
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TatsukiMengChen&theme=github-compact&hide_border=true&area=true" />
 </center>
 
-
-
 <center>
-		<img src="https://skillicons.dev/icons?i=c,java,py,go,ts,js,html,css,lua,md&theme=light" width="100%" />
+		<img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,idea,sublime,git,github,linux,docker&theme=light" width="100%" />
 		</img>
 </center>
 
 <center>
-		<img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,sublime,git,github,linux,ps,pr,ae,blender&theme=light" width="100%" />
+		<img src="https://skillicons.dev/icons?i=ts,js,html,css,c,java,py,go,lua,kotlin&theme=light" width="100%" />
 		</img>
 </center>
 
 <center>
-		<img src="https://skillicons.dev/icons?i=jquery,react,express,vite,yarn,mysql,mongodb,nodejs,nginx,netlify&theme=light" width="100%" />
+		<img src="https://skillicons.dev/icons?i=tauri,react,vue,vite,pnpm,nest,postgresql,mongodb,redis,kafka,nodejs,nginx&theme=light" width="100%" />
 		</img>
 </center>
 
