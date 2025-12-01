@@ -47,7 +47,7 @@
 </center>
 
 <center>
-		<img src="https://skillicons.dev/icons?i=tauri,react,vue,vite,pnpm,nest,postgresql,mongodb,redis,kafka,nodejs,nginx&theme=light" width="100%" />
+		<img src="https://skillicons.dev/icons?i=tauri,react,nextjs,vue,vite,pnpm,bun,nest,supabase,postgresql,mongodb,redis,kafka,nodejs,nginx&theme=light" width="100%" />
 		</img>
 </center>
 
